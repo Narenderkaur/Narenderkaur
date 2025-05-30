@@ -26,18 +26,11 @@
 🔹 A platform connecting **customers** with **service providers** like electricians, plumbers, and cleaning services.  
 🔹 Features: **User authentication, real-time booking, payment integration, admin dashboard**.  
 🔹 Tech Stack: **HTML, CSS, JavaScript, PHP and SQL**  
-🔹 [🔗 View Project](#) | [💻 Code](#)  
 
 ### **2️⃣ MyTailor**
 🔹 A website for tailors and fashion designers to showcase and sell their work.  
 🔹 Features: **Custom orders, portfolio showcase, chat system**.  
 🔹 Tech Stack: **HTML, CSS, JavaScript, Python, Django**  
-🔹 [🔗 View Project](#) | [💻 Code](#)  
-
-### **3️⃣ Portfolio Website**
-🔹 A fully responsive personal portfolio showcasing **skills, projects, and certifications**.  
-🔹 Built using **HTML, CSS, JavaScript, React.js**.  
-🔹 [🔗 Live Demo](#) | [💻 Code](#)  
 
 ---
 
@@ -51,7 +44,7 @@
 ## 📚 Certifications  
 - ✅ Web Development – **Apna College**  
 - ✅ Python for Data Science – **NPTEL**  
-- ✅ C++ Programming – **ISO**  
+- ✅ C and C++ Programming – **ISO**  
 
 ---
 
