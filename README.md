@@ -22,15 +22,10 @@
 
 ## 📌 Featured Projects  
 
-### **1️⃣ ConnectEase**
-🔹 A platform connecting **customers** with **service providers** like electricians, plumbers, and cleaning services.  
-🔹 Features: **User authentication, real-time booking, payment integration, admin dashboard**.  
-🔹 Tech Stack: **HTML, CSS, JavaScript, PHP and SQL**  
-
 ### **2️⃣ MyTailor**
 🔹 A website for tailors and fashion designers to showcase and sell their work.  
 🔹 Features: **Custom orders, portfolio showcase, chat system**.  
-🔹 Tech Stack: **HTML, CSS, JavaScript, Python, Django**  
+🔹 Tech Stack: **HTML, CSS, JavaScript, php, sql**  
 
 ---
 
