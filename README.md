@@ -21,16 +21,15 @@
 ---
 
 ## 📌 Featured Projects  
-
-### **2️⃣ MyTailor**
-🔹 A website for tailors and fashion designers to showcase and sell their work.  
-🔹 Features: **Custom orders, portfolio showcase, chat system**.  
-🔹 Tech Stack: **HTML, CSS, JavaScript, php, sql**  
+StayRent – Full‑Stack Web Application
+ Tech: React.js, Node.js, Express.js, MongoDB, Cloudinary, Google Maps API
+Built a full‑stack rental platform (Airbnb‑style) for browsing and managing property listings.
+Implemented user authentication, Cloudinary image uploads, Google Maps integration, and responsive UI.
+Developed REST APIs for listing management, delivering a smooth experience for both guests and property owners
 
 ---
 
 ## 🎯 What I’m Currently Working On  
-🚀 **Learning MERN stack** to build full-stack applications.  
 ☁️ **Exploring DevOps & Cloud Computing** (AWS, Docker, Kubernetes, CI/CD).  
 💡 **Developing ConnectEase with improved features**.  
 
